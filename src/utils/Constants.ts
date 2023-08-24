@@ -1,0 +1,18 @@
+export default {
+    PARSING_LOG_FILE_INFO: "Parsing log file at path:",
+    PARSING_LOG_FILE_ERROR: "Error parsing log file",
+    PARSING_LOG_FILE_SUCCESS: "Log file parsed successfully",
+    PARSING_LOG_LINE_ERROR: "Error parsing log line at: ",
+    FILTERING_ERROR_ENTRIES_INFO: "Filtering error entries",
+    FILTERING_ERROR_ENTRIES_ERROR: "Error filtering error entries",
+    PARSING_CMD_LINE_ERROR: "Error parsing command line arguments",
+    GENERATING_OUTPUT_FILE_INFO: "Generating output file at path:",
+    GENERATING_OUTPUT_FILE_ERROR: "Error Generating output file",
+    FILE_PATH_NOT_PROVIDED_ERROR: "Input or output file path not found",
+    MAIN_FUNCTION_ERROR: "Error in main function",
+    INIT_APP_ERROR: "Error initializing application",
+    INPUT_FILE_PATH: "Input file path",
+    OUTPUT_FILE_PATH: "Output file path",
+    ERROR: "error",
+    INFO: "info",
+};
